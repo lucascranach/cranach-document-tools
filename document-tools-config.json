@@ -1,0 +1,8 @@
+{
+   "force":true,
+   "defaultPeriod":"-10000",
+   "source":"/Volumes/cranach-2022/_temp",
+   "target":"/Volumes/cranach-2022/200-documents",
+   "jsonOutputFilename":"documentData-1.0.json",
+   "basepath": "/var/www/documents"
+}
